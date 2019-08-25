@@ -1,0 +1,114 @@
+/* Body */
+body{
+    background-color: #9e9e9e45; 
+}
+
+.active, .dropdown-menu .dropdown-item:active a:hover{
+    background-color:#E7E7E7!important; 
+}
+.dropdown-item{
+    color: #6D8092 !important; 
+}
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover{
+    background-color:#E7E7E7 !important; 
+}
+a{
+    color: #6D8092;
+    font-size: 15px; 
+}
+.nav-link:hover{
+    background-color:#E7E7E7 !important;
+    border-color: #0BADA6;
+    border-style: solid; 
+}
+   .navbar-expand-lg{
+    background-color: #0BADA6 !important;
+    }
+    .navbar{
+        max-height: none; 
+        padding: inherit;
+    }
+    .navbar div{
+        margin: inherit; 
+        background-color: white;  
+    }
+.navbar-brand:hover{
+    color: rgb(175, 175, 175) !important;
+    /* border-color:#0BADA6; */
+    border-style: solid; 
+}
+/* Images */
+    
+.active, .hover{
+    /* border-color:#0BADA6; */
+    border-style: solid; 
+ 
+}
+
+/* Title Class  */
+.title{
+     color:  #0BADA6;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder; 
+    padding-top: 25px;
+}
+/* Subtitle Class */
+.subtitle{
+    color: #0BADA6;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder; 
+    padding-top: 20px;
+}
+
+
+
+/* Paragraph Element */
+p{
+ color: #6D8092;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 15px; 
+}
+/* Box Class */
+.box {
+    margin-top: 30px; 
+    margin-left: 30px;
+    margin-bottom: 62px; 
+    padding: 10px 20px 15px; 
+    color:black;
+    background-color: white; 
+
+  }
+/* Table */
+   .table{ 
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 12px; 
+             
+  } 
+ 
+/* Footer */
+footer{
+    background-color: #666666; 
+    border-top-style: solid; 
+    border-top-width: 10px; 
+    border-top-color: #0BADA6;
+    color: white; 
+    min-height: 55px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px; 
+    text-align: center; 
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 15px; 
+    }
+
+
+.navbar div{
+  margin: inherit; 
+  background-color: white;  
+}
+
+.button{
+ margin-right:30px;
+}
